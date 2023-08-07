@@ -1,6 +1,6 @@
 
 
-<p align="center"><a href="https://github.com/shantanujain9"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Shamim+Sikder%F0%9F%91%8B;A+Self-motivated+Tech+Enthusiast;Always+Learning+New+Things;Love+to+Travel+and+Read+Books" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://github.com/shantanujain9"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Shantanu+Jain%F0%9F%91%8B;Studying+Computer+Science+at+Rutgers+University;Always+Learning+New+Things;Love+to+Travel+and+Read+Books" alt="Typing SVG" /></a></p>
 
 <div align="center">
   
@@ -9,10 +9,7 @@
 
 <br />
 <p align="center">
-<a href="https://dev.to/shantanujain9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shantanujain9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shantanujain9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamimsikder" height="30" width="40" /></a>
-<a href="https://fb.com/shamim.sikder.537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamim.sikder.537" height="30" width="40" /></a>
-</p>
 
 
 <div align="center">
