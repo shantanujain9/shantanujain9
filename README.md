@@ -1,18 +1,17 @@
 
 
-<p align="center"><a href="https://github.com/shantanujain9"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Shantanu+Jain%F0%9F%91%8B;Studying+Computer+Science+at+Rutgers+University;Always+Learning+New+Things;Love+to+Travel+and+Read+Books" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://github.com/shantanujain9"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Shantanu+Jain%F0%9F%91%8B;Studying+Comp+Sci.+at+Rutgers+University;Always+Learning+New+Things;Love+to+Travel+and+Read+Books" alt="Typing SVG" /></a></p>
 
 <div align="center">
   
 ## :mailbox: Connect with Me</br>
 </div>
-
 <br />
 <p align="center">
 <a href="https://linkedin.com/in/shantanujain9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamimsikder" height="30" width="40" /></a>
 
-
 <div align="center">
+
 
 ## :computer: Technologies and Tools that I know
   
@@ -20,7 +19,7 @@
   
 <a  margin="10" href="https://www.python.org" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/> </a>
 <a  margin="10" href="https://pandas.pydata.org/" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas"/></a>
-<a  margin="10" href="https://scikit-learn.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"/> </a>
+<a  margin="10" href="https://numpy.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy"/> </a>
 
 <br />  
   
@@ -60,17 +59,17 @@
 </br>
 </div>
 <br />
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimsikder&theme=gotham&show_icons=true" alt="shamimsikder"/>
+<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanujain9&theme=gotham&show_icons=true" alt="Shantanu Jain"/>
 
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=shamimsikder&show_icons=true&theme=gotham"/>
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=shantanujain9&show_icons=true&theme=gotham"/>
 </p>
 
-<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=shamimsikder&theme=gotham"/>
+<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=shantanujain9&theme=gotham"/>
 <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 </p>
 
 ------
 
-Credit: [shamimsikder](https://github.com/shantanujain0)
+
 Last Edited on: 08/07/2023
